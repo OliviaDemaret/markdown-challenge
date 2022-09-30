@@ -7,7 +7,7 @@
 ## "Crazy but not dangerous"
 
 |   Details on me| <3  |
-|---|---|---|---|---|
+|---|---|
 |   Birthday|05/06   |
 |  Favorite color | purple   |
 |   Favorite food| liquid   ones|
