@@ -4,14 +4,14 @@
 
 ![Olivia Demaret](https://media-exp1.licdn.com/dms/image/C4E03AQFjn2r0GK9cpQ/profile-displayphoto-shrink_800_800/0/1660132551105?e=1669852800&v=beta&t=6ZXNLsZrq0G2ukLMr6NJ2OwWjRdEdN9dJmGP-5nZa58)
 
-##"Crazy but not dangerous"
+## "Crazy but not dangerous"
 
-|   |   |
+|   Details on me| <3  |
 |---|---|---|---|---|
 |   Birthday|05/06   |
 |  Favorite color | purple   |
 |   Favorite food| liquid   ones|
-|    Pineapple on pizza1| no |
+|    Pineapple on pizza| no |
 
 ## Hobbies
 
