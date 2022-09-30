@@ -35,5 +35,5 @@
 
 *Sometimes, Life is difficult.*
 
-<<[previous](https://github.com/Sephiryah/markdown-challenge) || [OLIVIA DEMARET](https://github.com/OliviaDemaret/markdown-challenge.git) || [next](https://github.com/QuentinRouchet/markdown-challenge)>>
+[<<previous](https://github.com/Sephiryah/markdown-challenge) || [OLIVIA DEMARET](https://github.com/OliviaDemaret/markdown-challenge.git) || [next>>](https://github.com/QuentinRouchet/markdown-challenge)
 
